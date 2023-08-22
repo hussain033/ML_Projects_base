@@ -17,8 +17,8 @@ These projects are my personal projects. I have other repos which contains Machi
    - Built a regression model for stock price prediction, which predicts today's ending price when today's starting, maximum and minimum price is given.
 
 3. **Credit Card Fraud Detection using Classification**
-   - .[Notebook](./Project3_Credit_Card_Fraud_Detection/Credit_Card_Fraud_Detection.ipynb)
-   - .[Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+   - [Notebook](./Project3_Credit_Card_Fraud_Detection/Credit_Card_Fraud_Detection.ipynb)
+   - [Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
    - Developed a Classifier which identifies whether a Credit card transaction is a fraud transaction or not.
    - Implemented this project as a part of CodeClause Data Science Internship
 
